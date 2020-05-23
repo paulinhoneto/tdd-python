@@ -1,0 +1,5 @@
+Utilizando o gerenciador de pacotes do python - pip
+
+pip list
+pip install pytest
+pip unistalll pytest
